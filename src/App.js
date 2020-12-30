@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Szia Laci
+          Szia Laci, feature branch
         </a>
       </header>
     </div>
